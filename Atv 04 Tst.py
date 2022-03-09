@@ -64,3 +64,4 @@ pr = calcPreco(transacoes,ouro,ouroX,ouroY)
 print("Porcentagem = ",prc*100,"%");
 print("Ano = ",an*100,"%")
 print("Preço = ",pr)
+##base:https://gist.github.com/renansa27/3126a2fd0dedb339f66c1f5f0412043f##
